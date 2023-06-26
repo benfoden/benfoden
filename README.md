@@ -1,5 +1,5 @@
-- I work at Nota as a Growth (Business) Developer.
-- 🌱 I enjoy learning Javascript, React, and various development topics.
-- 💞️ I've got deep experience in startups, with a focus on growth, product, and branding. I am an expert at naming.
-- 📫 How to reach me ... reach out on twitter @benfoden . My DM's are open.
-- ⌨ I enjoy quality mechanical keyboards and input devices of all kinds.
+- 🌱 I write Javascript / Typescript, React, and light backend code. I write copy. I do UX and UI design. I name businesses and products.
+- 💞️ I've led product growth for b2c and b2b SaaS startups, and onboarded millions of users.
+- ™ I am a branding expert with successful projects from freelancers to Fortune 500 companies.
+- ⌨ I enjoy mechanical keyboards, ultimate (frisbee) disc, 3D printing, and all kinds of fine-tuned feedback.
+- 📫 Reach me on twitter @benfoden via DM.
