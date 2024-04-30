@@ -1,4 +1,4 @@
-- 🌱 I write Javascript / Typescript, React, and light backend code. I write copy. I do UX and UI design.
+- 🌱 I write some code. I write copy. I do UX and UI design.
 - 💞️ I've led product growth for b2c and b2b SaaS startups and onboarded millions of users.
 - ™ I've developed branding for businesses and products from freelancers to Fortune 500.
 - ⌨ I enjoy keyboards, ultimate (frisbee) disc, and 3D printing.
